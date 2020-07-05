@@ -1,0 +1,23 @@
+{
+  "name": "ctbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sydo26/ctbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sydo26/ctbot/issues"
+  },
+  "homepage": "https://github.com/sydo26/ctbot#readme",
+  "dependencies": {
+    "puppeteer": "^5.0.0"
+  }
+}
