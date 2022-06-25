@@ -22,7 +22,7 @@
     "config-yml": "^0.10.3",
     "dotenv": "^8.2.0",
     "js-yaml": "^3.14.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "puppeteer": "^5.0.0"
   }
 }
